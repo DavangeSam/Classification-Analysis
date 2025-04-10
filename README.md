@@ -43,4 +43,11 @@ Performance was measured using classification error rate, defined as:
 
 Error Rate = (# of incorrect predictions) / (total number of test instances)
 
+Random Forest Classifier Result:
+
+
+
+XGBoost Classifier Result:
+
+![xgboost](https://github.com/DavangeSam/Predicting-Income-Levels/blob/main/XGBoost%20Result.png?raw=true)
 

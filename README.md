@@ -20,7 +20,9 @@ A data preprocessing pipeline was designed and implemented to handle these cases
 
 The cleaning ensures the datasets are ready for reliable model training and evaluation.
 
+Cleaned Adult Data:
 
+Cleaned Adult Test:
 
 🤖 Classification Modeling:
 

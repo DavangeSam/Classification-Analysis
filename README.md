@@ -24,6 +24,8 @@ Cleaned Adult Data:
 
 Cleaned Adult Test:
 
+![Cleaned Adult Test](https://github.com/DavangeSam/Predicting-Income-Levels/blob/main/Cleaned%20Adult%20Test.png?raw=true)
+
 🤖 Classification Modeling:
 
 Two classification algorithms were implemented and evaluated:

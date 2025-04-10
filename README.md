@@ -45,7 +45,7 @@ Error Rate = (# of incorrect predictions) / (total number of test instances)
 
 Random Forest Classifier Result:
 
-
+![random forest](https://github.com/DavangeSam/Predicting-Income-Levels/blob/main/Random%20Forest%20Classifier%20Result.png?raw=true)
 
 XGBoost Classifier Result:
 

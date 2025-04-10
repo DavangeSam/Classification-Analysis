@@ -1,4 +1,4 @@
-# Classification-Analysis
+# Predicting Income Levels
 
 This project explores supervised learning techniques using the Adult Income dataset. The dataset includes demographic and employment-related attributes used to predict whether an individual's income exceeds $50K annually.
 

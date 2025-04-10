@@ -22,6 +22,8 @@ The cleaning ensures the datasets are ready for reliable model training and eval
 
 Cleaned Adult Data:
 
+![Cleaned Adult Data](https://github.com/DavangeSam/Predicting-Income-Levels/blob/main/Cleaned%20Adult%20Data.png?raw=true)
+
 Cleaned Adult Test:
 
 ![Cleaned Adult Test](https://github.com/DavangeSam/Predicting-Income-Levels/blob/main/Cleaned%20Adult%20Test.png?raw=true)
